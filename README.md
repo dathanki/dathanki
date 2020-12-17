@@ -1,4 +1,12 @@
 ### Hi there 👋
+### My name is Dhaval and I am a sponge for knowledge
+
+- 🔭 I’m currently working on some Web technologies, slowly makingmy way to React.js and Vue.js
+- 🌱 I’m currently learning a little bit of everything with a focus on Cloud technologies and Unity
+
+
+
+
 
 <!--
 **dathanki/dathanki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
