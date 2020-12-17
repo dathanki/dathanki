@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Js, AWS, Unity**
 
-- 👨‍💻 Working on a sweet personal page [Stay tuned 👋](Stay tuned 👋)
+- 👨‍💻 Working on a sweet personal page **Stay tuned 👋**
 
 - 📝 I regularly (aim to) write articles on [https://www.boredviews.com/](https://www.boredviews.com/)
 
-- 📄 Know about my experiences [Stay tuned 👋](Stay tuned 👋)
+- 📄 Know about my experiences **Stay tuned 👋**
 
 - ⚡ Fun fact **we all start as novices 🙏**
 
