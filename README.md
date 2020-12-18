@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### My name is Dhaval and I am a sponge for knowledge
 
-- 🔭 I’m currently working on some Web technologies, slowly makingmy way to React.js and Vue.js
+- 🔭 I’m currently working on some Web technologies, slowly making my way to React.js and Vue.js
 - 🌱 I’m currently learning a little bit of everything with a focus on Cloud technologies and Unity
 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello! I'm Dhaval 👋</h1>
-<h3 align="center">Excited to learning something better everyday</h3>
+<h3 align="center">Excited to be learning something better everyday</h3>
 
 - 🔭 I’m currently working on **the [javascript30 day challenge](https://javascript30.com/)**
 
