@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning a little bit of everything with a focus on Cloud technologies and Unity
 
 
+- 🔭 I’m currently working on **the [javascript30 day challenge](https://javascript30.com/)**
 
 
 
@@ -26,9 +27,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hello! I'm Dhaval 👋</h1>
 <h3 align="center">Excited to be learning something better everyday</h3>
 
-- 🔭 I’m currently working on **the [javascript30 day challenge](https://javascript30.com/)**
 
-- 🌱 I’m currently learning **Js, AWS, Unity**
+- 🌱 I’m currently learning **ReactJs, AWS, Unity**
 
 - 👨‍💻 Working on a sweet personal page **Stay tuned 👋**
 
