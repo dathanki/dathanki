@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJs, AWS, Unity**
 
-- 👨‍💻 Working on a sweet personal page **Stay tuned 👋**
+- 👨‍💻 Working on a sweet personal page **Update** --> Dathanki.com
 
 - 📝 I regularly (aim to) write articles on [https://www.boredviews.com/](https://www.boredviews.com/)
 
