@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJs, AWS, Unity**
 
-- 👨‍💻 Working on a sweet personal page **Update** --> Dathanki.com
+- 👨‍💻  **Update** My personal page --> [Dathanki.com](https://www.dathanki.com/)
 
-- 📝 I regularly (aim to) write articles on [https://www.boredviews.com/](https://www.boredviews.com/)
+- 📝 I (aim to) write articles on [Boredviews.com/](https://www.boredviews.com/)
 
 - 📄 Know about my experiences **Stay tuned 👋**
 
