@@ -1,1 +1,1 @@
-<h1 align="center"> All paths converge</h1>
+<p align="center"><strong>All paths converge</strong></p>
